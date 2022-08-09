@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Run this code at:
+https://amangarg0303.github.io/QR-code-generator-Reactjs/
+
 ## Available Scripts
 
 In the project directory, you can run:
